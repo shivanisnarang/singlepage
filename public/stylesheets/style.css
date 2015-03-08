@@ -49,8 +49,9 @@ input:focus { outline: 0} ;
 		position: relative;
 	}
 
-	@media screen and (min-width: 1024px) {
+	@media (max-width: 500px) {
   body {
     font-size: 100%;
+    line-height: 80px;
   }
 }
