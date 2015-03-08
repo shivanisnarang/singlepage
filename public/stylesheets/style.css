@@ -48,3 +48,9 @@ input:focus { outline: 0} ;
 	body{
 		position: relative;
 	}
+
+	@media screen and (min-width: 1024px) {
+  body {
+    font-size: 100%;
+  }
+}
