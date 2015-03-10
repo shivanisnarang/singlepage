@@ -57,7 +57,7 @@ input:focus { outline: 0} ;
 }
 
 @media (max-width: 500px) {
-  .navbar-fixed-top {
+  li {
     font-size: 70px;
     line-height: 80px;
   }
